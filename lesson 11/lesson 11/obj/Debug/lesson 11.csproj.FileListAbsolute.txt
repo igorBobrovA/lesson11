@@ -1,0 +1,9 @@
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson 11\lesson 11\bin\Debug\lesson 11.exe.config
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson 11\lesson 11\bin\Debug\lesson 11.exe
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson 11\lesson 11\bin\Debug\lesson 11.pdb
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson 11\lesson 11\obj\Debug\lesson 11.csprojAssemblyReference.cache
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson 11\lesson 11\obj\Debug\lesson_11.Form1.resources
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson 11\lesson 11\obj\Debug\lesson_11.Properties.Resources.resources
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson 11\lesson 11\obj\Debug\lesson 11.csproj.GenerateResource.cache
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson 11\lesson 11\obj\Debug\lesson 11.exe
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson 11\lesson 11\obj\Debug\lesson 11.pdb
